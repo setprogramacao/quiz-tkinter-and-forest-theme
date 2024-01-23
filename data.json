@@ -1,0 +1,49 @@
+{
+    "question": [
+      "Q1. Quais aspas sao usadas para determinar uma string no Python?",
+      "Q2. Quale e o sinal que se usa para atribuir um valor a uma variavel no Python?",
+      "Q3. Qual e a carateristica de uma tupla?",
+      "Q4. Qual principal carateristica de um dicionario python?",
+      "Q5. Em que linguagem fez esse programa?"
+    ],
+    "answer": [
+      1,
+      2,
+      2,
+      2,
+      3
+    ],
+    "options": [
+  
+      [
+        "Aspas duplas ou simples",
+        "So aspas simples",
+        "So aspas duplas",
+        "Nenhuma das opcoes"
+      ],
+      [
+        "+=",
+        "=",
+        "+",
+        "=="
+      ],
+      [
+        "E mutavel",
+        "E imutavel",
+        "So aceita dados do tipo string",
+        "So aceita numeros"
+      ],
+      [
+        "Dados do tipo booleano",
+        "Dados em Chave-valor",
+        "Nao aceita numero como valor",
+        "E imutavel"
+      ],
+      [
+        "Delphi",
+        "Java Script",
+        "Python",
+        "C#"
+      ]
+    ]
+  }
